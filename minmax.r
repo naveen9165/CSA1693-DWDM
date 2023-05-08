@@ -1,0 +1,6 @@
+a <-c(2,3,4,5,6,7,8)
+mean <-mean(a)
+minimum <-min(a)
+maximum <-max(a)
+minmax <-(a-minimum)/(maximum-minimum)
+print(barplot(minmax))
