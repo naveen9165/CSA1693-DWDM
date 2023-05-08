@@ -1,0 +1,11 @@
+@relation customer
+@attribute name {naveen,teja,ramu,somu}
+@attribute age numeric
+@attribute salary numeric
+@attribute credit numeric
+
+@data
+naveen,20,20000,5
+teja,19,15000,4
+ramu,18,18000,3
+somu,17,19000,4
